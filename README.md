@@ -15,5 +15,5 @@ I have hands-on experience developing full stack projects, including a live e-co
 - Looking for Junior Full Stack opportunities (remote or on-site)
 - Continuously improving my backend and system design skills
 
-📂 Portfolio: https://portfolio-florencia-russo.vercel.app  
-💼 LinkedIn: https://linkedin.com/in/florencia-russo
+📂 Portfolio: [https://portfolio-florencia-russo.vercel.app  ](https://portfolio-florencia-russo.vercel.app/)
+💼 LinkedIn: [https://linkedin.com/in/florencia-russo](https://www.linkedin.com/in/florencia-russo-65976b287/)
