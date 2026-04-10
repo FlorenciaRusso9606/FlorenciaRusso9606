@@ -1,6 +1,6 @@
 ## Hi, I'm Florencia 👋
 
-I’m a recently graduated Junior Full Stack Developer from Argentina.
+I’m a recently graduated Full Stack Developer from Argentina.
 
 I build web applications using React, Next.js, Node.js, and PostgreSQL.  
 I have hands-on experience developing full stack projects, including a live e-commerce platform with real payment integration and an admin panel in production.
